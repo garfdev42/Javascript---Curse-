@@ -1,1 +1,1 @@
-Curse With Javascript - Fernando Herrera 2024
+Curse With Javascript - Fernando Herrera 2024-2
